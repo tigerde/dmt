@@ -1,0 +1,92 @@
+[webspider]  2013-08-15 19:09:37 DEBUG HttpClient:72 : Java version: 1.6.0_10-rc2
+[webspider]  2013-08-15 19:09:37 DEBUG HttpClient:73 : Java vendor: Sun Microsystems Inc.
+[webspider]  2013-08-15 19:09:37 DEBUG HttpClient:74 : Java class path: F:\anjinghu\WebRoot\WEB-INF\classes;F:\anjinghu\WebRoot\WEB-INF\lib\commons-httpclient-3.1.jar;F:\anjinghu\WebRoot\WEB-INF\lib\log4j-1.2.16.jar;F:\anjinghu\WebRoot\WEB-INF\lib\commons-logging-1.1.jar;F:\anjinghu\WebRoot\WEB-INF\lib\commons-codec.jar;F:\anjinghu\WebRoot\WEB-INF\lib\htmllexer.jar;F:\anjinghu\WebRoot\WEB-INF\lib\htmlparser.jar
+[webspider]  2013-08-15 19:09:37 DEBUG HttpClient:75 : Operating system name: Windows Vista
+[webspider]  2013-08-15 19:09:37 DEBUG HttpClient:76 : Operating system architecture: x86
+[webspider]  2013-08-15 19:09:37 DEBUG HttpClient:77 : Operating system version: 6.1
+[webspider]  2013-08-15 19:09:37 DEBUG HttpClient:82 : SUN 1.6: SUN (DSA key/parameter generation; DSA signing; SHA-1, MD5 digests; SecureRandom; X.509 certificates; JKS keystore; PKIX CertPathValidator; PKIX CertPathBuilder; LDAP, Collection CertStores, JavaPolicy Policy; JavaLoginConfig Configuration)
+[webspider]  2013-08-15 19:09:37 DEBUG HttpClient:82 : SunRsaSign 1.5: Sun RSA signature provider
+[webspider]  2013-08-15 19:09:37 DEBUG HttpClient:82 : SunJSSE 1.6: Sun JSSE provider(PKCS12, SunX509 key/trust factories, SSLv3, TLSv1)
+[webspider]  2013-08-15 19:09:37 DEBUG HttpClient:82 : SunJCE 1.6: SunJCE Provider (implements RSA, DES, Triple DES, AES, Blowfish, ARCFOUR, RC2, PBE, Diffie-Hellman, HMAC)
+[webspider]  2013-08-15 19:09:37 DEBUG HttpClient:82 : SunJGSS 1.0: Sun (Kerberos v5, SPNEGO)
+[webspider]  2013-08-15 19:09:37 DEBUG HttpClient:82 : SunSASL 1.5: Sun SASL provider(implements client mechanisms for: DIGEST-MD5, GSSAPI, EXTERNAL, PLAIN, CRAM-MD5; server mechanisms for: DIGEST-MD5, GSSAPI, CRAM-MD5)
+[webspider]  2013-08-15 19:09:37 DEBUG HttpClient:82 : XMLDSig 1.0: XMLDSig (DOM XMLSignatureFactory; DOM KeyInfoFactory)
+[webspider]  2013-08-15 19:09:37 DEBUG HttpClient:82 : SunPCSC 1.6: Sun PC/SC provider
+[webspider]  2013-08-15 19:09:37 DEBUG HttpClient:82 : SunMSCAPI 1.6: Sun's Microsoft Crypto API provider
+[webspider]  2013-08-15 19:09:37 DEBUG DefaultHttpParams:151 : Set parameter http.useragent = Jakarta Commons-HttpClient/3.1
+[webspider]  2013-08-15 19:09:37 DEBUG DefaultHttpParams:151 : Set parameter http.protocol.version = HTTP/1.1
+[webspider]  2013-08-15 19:09:37 DEBUG DefaultHttpParams:151 : Set parameter http.connection-manager.class = class org.apache.commons.httpclient.SimpleHttpConnectionManager
+[webspider]  2013-08-15 19:09:37 DEBUG DefaultHttpParams:151 : Set parameter http.protocol.cookie-policy = default
+[webspider]  2013-08-15 19:09:37 DEBUG DefaultHttpParams:151 : Set parameter http.protocol.element-charset = US-ASCII
+[webspider]  2013-08-15 19:09:37 DEBUG DefaultHttpParams:151 : Set parameter http.protocol.content-charset = ISO-8859-1
+[webspider]  2013-08-15 19:09:37 DEBUG DefaultHttpParams:151 : Set parameter http.method.retry-handler = org.apache.commons.httpclient.DefaultHttpMethodRetryHandler@1e63e3d
+[webspider]  2013-08-15 19:09:37 DEBUG DefaultHttpParams:151 : Set parameter http.dateparser.patterns = [EEE, dd MMM yyyy HH:mm:ss zzz, EEEE, dd-MMM-yy HH:mm:ss zzz, EEE MMM d HH:mm:ss yyyy, EEE, dd-MMM-yyyy HH:mm:ss z, EEE, dd-MMM-yyyy HH-mm-ss z, EEE, dd MMM yy HH:mm:ss z, EEE dd-MMM-yyyy HH:mm:ss z, EEE dd MMM yyyy HH:mm:ss z, EEE dd-MMM-yyyy HH-mm-ss z, EEE dd-MMM-yy HH:mm:ss z, EEE dd MMM yy HH:mm:ss z, EEE,dd-MMM-yy HH:mm:ss z, EEE,dd-MMM-yyyy HH:mm:ss z, EEE, dd-MM-yyyy HH:mm:ss z]
+[webspider]  2013-08-15 19:09:37 DEBUG HttpConnection:692 : Open connection to dmt.p.cn:80
+[webspider]  2013-08-15 19:09:38 DEBUG header:70 : >> "GET /Default.aspx HTTP/1.1[\r][\n]"
+[webspider]  2013-08-15 19:09:38 DEBUG HttpMethodBase:1352 : Adding Host request header
+[webspider]  2013-08-15 19:09:38 DEBUG header:70 : >> "User-Agent: Jakarta Commons-HttpClient/3.1[\r][\n]"
+[webspider]  2013-08-15 19:09:38 DEBUG header:70 : >> "Host: dmt.p.cn[\r][\n]"
+[webspider]  2013-08-15 19:09:38 DEBUG header:70 : >> "[\r][\n]"
+[webspider]  2013-08-15 19:09:38 DEBUG header:70 : << "HTTP/1.1 302 Found[\r][\n]"
+[webspider]  2013-08-15 19:09:38 DEBUG header:70 : << "HTTP/1.1 302 Found[\r][\n]"
+[webspider]  2013-08-15 19:09:38 DEBUG header:70 : << "Cache-Control: private[\r][\n]"
+[webspider]  2013-08-15 19:09:38 DEBUG header:70 : << "Content-Type: text/html; charset=utf-8[\r][\n]"
+[webspider]  2013-08-15 19:09:38 DEBUG header:70 : << "Location: http://sso2.p.cn/cuo/IsLogin.aspx?service=http%3a%2f%2fdmt.p.cn%2fDefault.aspx[\r][\n]"
+[webspider]  2013-08-15 19:09:38 DEBUG header:70 : << "Server: Microsoft-IIS/7.5[\r][\n]"
+[webspider]  2013-08-15 19:09:38 DEBUG header:70 : << "Set-Cookie: ASP.NET_SessionId=jnqobf454dvlctm5cwmnyz3y; path=/; HttpOnly[\r][\n]"
+[webspider]  2013-08-15 19:09:38 DEBUG header:70 : << "X-AspNet-Version: 2.0.50727[\r][\n]"
+[webspider]  2013-08-15 19:09:38 DEBUG header:70 : << "X-Powered-By: ASP.NET[\r][\n]"
+[webspider]  2013-08-15 19:09:38 DEBUG header:70 : << "Date: Thu, 15 Aug 2013 11:09:47 GMT[\r][\n]"
+[webspider]  2013-08-15 19:09:38 DEBUG header:70 : << "Content-Length: 195[\r][\n]"
+[webspider]  2013-08-15 19:09:38 DEBUG header:70 : << "[\r][\n]"
+[webspider]  2013-08-15 19:09:38 DEBUG CookieSpec:337 : Unrecognized cookie attribute: name=HttpOnly, value=null
+[webspider]  2013-08-15 19:09:38 DEBUG HttpMethodBase:1651 : Cookie accepted: "$Version=0; ASP.NET_SessionId=jnqobf454dvlctm5cwmnyz3y; $Path=/"
+[webspider]  2013-08-15 19:09:38 DEBUG HttpMethodDirector:818 : Redirect required
+[webspider]  2013-08-15 19:09:38 DEBUG HttpMethodDirector:583 : Redirect requested to location 'http://sso2.p.cn/cuo/IsLogin.aspx?service=http%3a%2f%2fdmt.p.cn%2fDefault.aspx'
+[webspider]  2013-08-15 19:09:38 DEBUG HttpMethodDirector:644 : Redirecting from 'http://dmt.p.cn:80/Default.aspx' to 'http://sso2.p.cn/cuo/IsLogin.aspx
+[webspider]  2013-08-15 19:09:38 DEBUG HttpMethodDirector:188 : Execute redirect 1 of 100
+[webspider]  2013-08-15 19:09:38 DEBUG content:70 : << "<html><head><title>Object moved</title></head><body>[\r][\n]"
+[webspider]  2013-08-15 19:09:38 DEBUG content:70 : << "<h2>Object moved to <a href="http://sso2.p.cn/cuo/IsLogin.aspx?service=http%3a%2f%2fdmt.p.cn%2fDefault.aspx">here</a>.</h2>[\r][\n]"
+[webspider]  2013-08-15 19:09:38 DEBUG content:70 : << "</body></html>[\r][\n]"
+[webspider]  2013-08-15 19:09:38 DEBUG HttpMethodBase:1024 : Resorting to protocol version default close connection policy
+[webspider]  2013-08-15 19:09:38 DEBUG HttpMethodBase:1028 : Should NOT close connection, using HTTP/1.1
+[webspider]  2013-08-15 19:09:38 DEBUG HttpConnection:1176 : Connection is locked.  Call to releaseConnection() ignored.
+[webspider]  2013-08-15 19:09:38 DEBUG HttpConnection:1178 : Releasing connection back to connection manager.
+[webspider]  2013-08-15 19:09:38 DEBUG HttpConnection:692 : Open connection to sso2.p.cn:80
+[webspider]  2013-08-15 19:09:39 DEBUG header:70 : >> "GET /cuo/IsLogin.aspx?service=http%3a%2f%2fdmt.p.cn%2fDefault.aspx HTTP/1.1[\r][\n]"
+[webspider]  2013-08-15 19:09:39 DEBUG HttpMethodBase:1352 : Adding Host request header
+[webspider]  2013-08-15 19:09:39 DEBUG header:70 : >> "User-Agent: Jakarta Commons-HttpClient/3.1[\r][\n]"
+[webspider]  2013-08-15 19:09:39 DEBUG header:70 : >> "Host: sso2.p.cn[\r][\n]"
+[webspider]  2013-08-15 19:09:39 DEBUG header:70 : >> "[\r][\n]"
+[webspider]  2013-08-15 19:09:39 DEBUG header:70 : << "HTTP/1.1 302 Found[\r][\n]"
+[webspider]  2013-08-15 19:09:39 DEBUG header:70 : << "HTTP/1.1 302 Found[\r][\n]"
+[webspider]  2013-08-15 19:09:39 DEBUG header:70 : << "Cache-Control: private[\r][\n]"
+[webspider]  2013-08-15 19:09:39 DEBUG header:70 : << "Content-Type: text/html; charset=utf-8[\r][\n]"
+[webspider]  2013-08-15 19:09:39 DEBUG header:70 : << "Location: http://dmt.p.cn/Default.aspx[\r][\n]"
+[webspider]  2013-08-15 19:09:39 DEBUG header:70 : << "Server: Microsoft-IIS/7.5[\r][\n]"
+[webspider]  2013-08-15 19:09:39 DEBUG header:70 : << "Set-Cookie: ASP.NET_SessionId=zg2icdjaaov5ojj5wpdt2pib; path=/; HttpOnly[\r][\n]"
+[webspider]  2013-08-15 19:09:39 DEBUG header:70 : << "X-AspNet-Version: 2.0.50727[\r][\n]"
+[webspider]  2013-08-15 19:09:39 DEBUG header:70 : << "X-Powered-By: ASP.NET[\r][\n]"
+[webspider]  2013-08-15 19:09:39 DEBUG header:70 : << "Date: Thu, 15 Aug 2013 11:09:54 GMT[\r][\n]"
+[webspider]  2013-08-15 19:09:39 DEBUG header:70 : << "Content-Length: 145[\r][\n]"
+[webspider]  2013-08-15 19:09:39 DEBUG header:70 : << "[\r][\n]"
+[webspider]  2013-08-15 19:09:39 DEBUG CookieSpec:337 : Unrecognized cookie attribute: name=HttpOnly, value=null
+[webspider]  2013-08-15 19:09:39 DEBUG HttpMethodBase:1651 : Cookie accepted: "$Version=0; ASP.NET_SessionId=zg2icdjaaov5ojj5wpdt2pib; $Path=/"
+[webspider]  2013-08-15 19:09:39 DEBUG HttpMethodDirector:818 : Redirect required
+[webspider]  2013-08-15 19:09:39 DEBUG HttpMethodDirector:583 : Redirect requested to location 'http://dmt.p.cn/Default.aspx'
+[webspider]  2013-08-15 19:09:39 DEBUG HttpMethodDirector:644 : Redirecting from 'http://sso2.p.cn:80/cuo/IsLogin.aspx' to 'http://dmt.p.cn/Default.aspx
+[webspider]  2013-08-15 19:09:39 DEBUG HttpMethodDirector:188 : Execute redirect 2 of 100
+[webspider]  2013-08-15 19:09:39 DEBUG content:70 : << "<html><head><title>Object moved</title></head><body>[\r][\n]"
+[webspider]  2013-08-15 19:09:39 DEBUG content:70 : << "<h2>Object moved to <a href="http://dmt.p.cn/Default.aspx">here</a>.</h2>[\r][\n]"
+[webspider]  2013-08-15 19:09:39 DEBUG content:70 : << "</body></html>[\r][\n]"
+[webspider]  2013-08-15 19:09:39 DEBUG HttpMethodBase:1024 : Resorting to protocol version default close connection policy
+[webspider]  2013-08-15 19:09:39 DEBUG HttpMethodBase:1028 : Should NOT close connection, using HTTP/1.1
+[webspider]  2013-08-15 19:09:39 DEBUG HttpConnection:1176 : Connection is locked.  Call to releaseConnection() ignored.
+[webspider]  2013-08-15 19:09:39 DEBUG HttpConnection:1178 : Releasing connection back to connection manager.
+[webspider]  2013-08-15 19:09:39 DEBUG HttpConnection:692 : Open connection to dmt.p.cn:80
+[webspider]  2013-08-15 19:09:40 DEBUG header:70 : >> "GET /Default.aspx HTTP/1.1[\r][\n]"
+[webspider]  2013-08-15 19:09:40 DEBUG HttpMethodBase:1352 : Adding Host request header
+[webspider]  2013-08-15 19:09:40 DEBUG header:70 : >> "User-Agent: Jakarta Commons-HttpClient/3.1[\r][\n]"
+[webspider]  2013-08-15 19:09:40 DEBUG header:70 : >> "Host: dmt.p.cn[\r][\n]"
+[webspider]  2013-08-15 19:09:40 DEBUG header:70 : >> "Cookie: $Version=0; ASP.NET_SessionId=jnqobf454dvlctm5cwmnyz3y; $Path=/[\r][\n]"
+[webspider]  2013-08-15 19:09:40 DEBUG header:70 : >> "[\r][\n]"
