@@ -18,12 +18,16 @@ import org.htmlparser.util.ParserFeedback;
 public class MyParser extends Parser {
 	private static PrototypicalNodeFactory factory = null;
 
-	/*
-	 * //注册自定义标签 static{ factory = new PrototypicalNodeFactory();
-	 * factory.registerTag(new StrongTag()); factory.registerTag(new ITag());
-	 * factory.registerTag(new ITag()); factory.registerTag(new HTag());
-	 * factory.registerTag(new EmTag()); }
-	 */
+	 
+	 //注册自定义标签
+	static{ factory = new PrototypicalNodeFactory();
+	 // factory.registerTag(new StrongTag());
+	 // factory.registerTag(new ITag());
+	 // factory.registerTag(new ITag()); 
+	 // factory.registerTag(new HTag());
+	 // factory.registerTag(new EmTag());
+	  }
+	 
 
 	public MyParser() {
 		super();
